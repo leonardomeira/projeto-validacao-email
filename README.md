@@ -10,6 +10,8 @@ Este projeto tem como intuito propor uma solução a uma situação-problema apr
 • SQLite
 
 ## Getting Started
+*OBS.: é importante que você possua o Node.js instalado em seu computador para que esta aplicação seja executada.*
+
 Abra o terminal e clone este repositório pelo comando: <br>
 `git clone https://github.com/leonardomeira/projeto-validacao-email`
 
